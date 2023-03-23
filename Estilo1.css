@@ -1,0 +1,104 @@
+body {
+  font-family: TT Lakes W05 Regular, sans-serif;
+  background-color: lightcoral;
+  background-image: url(ApexBack.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#nav-title li a{
+  padding-top: 1cm;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+
+#item-video video{
+  width: 70%;
+  display: flex;
+}
+
+#logo{
+  position: relative;
+  top: -450px;
+}
+
+#div-text p{
+  position: relative;
+  top: -400px;
+  color: aliceblue;
+  font-size: 20px;
+}
+
+#contenedor{
+  display: flex;
+}
+
+#columna{
+  flex: 1;
+  margin: 0;
+  padding: 0;
+}
+
+#div-contenedor{
+  position: relative;
+  top:-350px;
+  padding-left: 10cm;
+  padding-right: 10cm;
+}
+
+#columna button{
+  border: 1px;
+  color: rgb(255, 255, 255);
+  background-color: brown;
+  width: 200px;
+  height: 60px;
+  font-size: 20px;
+}
+
+#div-content-text{
+  position: relative;
+  top: -250px;
+  justify-content: center;
+  width: 70%;
+  height: 300px;
+}
+
+#columna p{
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+}
+
+#div-content-temporada img{
+  position: relative;
+  width: 70%;
+  top: -200px;
+}
+
+#text-temporada{
+  position: relative;
+  top: -450px;
+  left: 230px;
+  width: 30%;
+}
+
+#text-temporada{
+  color: #ffffff;
+}
+
+#div-button{
+  position: relative;
+  top: -430px;
+  left: 230px;
+}
+
+#div-button button{
+  border: 1px;
+  color: rgb(255, 255, 255);
+  background-color: brown;
+  width: 200px;
+  height: 40px;
+  font-size: 20px;
+}
+
+  

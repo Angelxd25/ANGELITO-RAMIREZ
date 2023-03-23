@@ -1,0 +1,99 @@
+body {
+    font-family: TT Lakes W05 Regular, sans-serif;
+    background-color: lightcoral;
+    background-image: url(ApexBack.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+#nav-title li a{
+    padding-top: 1cm;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+#div-content-temporada img{
+    width: 70%;
+}
+
+#text-equipos{
+    position: relative;
+    top: -240px;
+    left:800px;
+    width: 30%;
+    font-weight: bold;
+    height: 100px;
+}
+  
+#text-equipos p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+}
+
+#text-equipos button{
+    position: relative;
+    top: 30px;
+    left: 140px;
+    border: 1px;
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+}
+
+#text-arma{
+    position: relative;
+    top: -240px;
+    left:300px;
+    width: 30%;
+    font-weight: bold;
+    height: 100px;
+}
+  
+#text-arma p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+}
+
+#text-arma button{
+    position: relative;
+    top: 30px;
+    left: 140px;
+    border: 1px;
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+}
+
+#text-teams{
+    position: relative;
+    top: -340px;
+    left:300px;
+    width: 30%;
+    font-weight: bold;
+    height: 100px;
+}
+  
+#text-teams p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+}
+
+#text-teams button{
+    position: relative;
+    top: 30px;
+    left: 140px;
+    border: 1px;
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+}
+  
